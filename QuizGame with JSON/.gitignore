@@ -1,0 +1,3 @@
+# ignore potentially dangerous files
+.exe
+.vscode
